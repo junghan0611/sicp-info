@@ -52,7 +52,6 @@
 @end macro
 
 @setchapternewpage odd
-@setshortcontentsaftertitlepage
 
 @titlepage
 @titlefont{Structure and Interpretation}
